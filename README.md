@@ -35,8 +35,8 @@ Includes Dark/Light theme and reusable React components with custom hooks for ma
 
 🔗 [Demo](https://tetianasobolieva.github.io/phone_catalog_v/)
 💻 [GitHub Code](https://github.com/TetianaSobolieva/phone_catalog_v/blob/main/README.md)
-
-
+<br>
+<br>
 ### ✅ React Todo App with API
 
 **Technologies:** React · TypeScript · REST API · SCSS
@@ -46,9 +46,8 @@ Supports task creation, deletion, completion toggling, and filtering by status.
 
 🔗 [Demo](https://tetianasobolieva.github.io/Todo-app/)
 💻 [GitHub Code](https://github.com/TetianaSobolieva/Todo-app)
-
-
-
+<br>
+<br>
 ### Nothing - Landing Page
 **Technologies:** HTML5 · CSS3 / SCSS · Parcel
 
