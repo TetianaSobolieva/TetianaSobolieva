@@ -51,7 +51,7 @@ Supports task creation, deletion, completion toggling, and filtering by status.
 ### Nothing - Landing Page
 **Technologies:** HTML5 · CSS3 / SCSS · Parcel
 
-A responsive landing page for store Nothing — built with pure HTML and SCSS, bundled with Parcel.
+A responsive landing page for store Nothing — built with pure HTML and SCSS, bundled with Parcel.  
 🔗 [Demo](https://tetianasobolieva.github.io/layout_landing-page-N/#about-us)
 💻 [GitHub Code](https://github.com/TetianaSobolieva/layout_landing-page-N)
 
