@@ -1,5 +1,5 @@
 # Hi 👋 I'm Tetiana
----
+
 💻 Front-end Developer | React | TypeScript | JavaScript | Tailwind | Sass
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fd-tetiana-sobolieva/)
