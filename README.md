@@ -47,6 +47,8 @@ Supports task creation, deletion, completion toggling, and filtering by status.
 🔗 [Demo](https://tetianasobolieva.github.io/Todo-app/)
 💻 [GitHub Code](https://github.com/TetianaSobolieva/Todo-app)
 
+
+
 ### Nothing - Landing Page
 **Technologies:** HTML5 · CSS3 / SCSS · Parcel
 
