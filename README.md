@@ -56,10 +56,10 @@ A responsive landing page for store Nothing — built with pure HTML and SCSS, b
 💻 [GitHub Code](https://github.com/TetianaSobolieva/layout_landing-page-N)
 
 ## 🎓 Education
-**National Aerospace university, Kharkiv**
-Aircraft engine construction technology
-Master's degree
-2000 – 2006
+**National Aerospace university, Kharkiv**  
+Aircraft engine construction technology  
+Master's degree  
+2000 – 2006  
 
 ## 📚 Additional Education
 
