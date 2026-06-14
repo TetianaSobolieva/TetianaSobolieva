@@ -15,10 +15,10 @@ Currently growing as a Full-Stack Developer by focusing on backend technologies 
 
 ## 🛠 Skills
 
-**Languages:** TypeScript · JavaScript
-**Frontend:** React · Redux · HTML5 · CSS3 · Sass (SCSS) · BEM · Tailwind CSS · Bootstrap · jQuery
-**Tools:** Git · GitHub · Vite · Babel · ESLint · Prettier · Figma
-**English:** Upper -intermediate
+**Languages:** TypeScript · JavaScript  
+**Frontend:** React · Redux · HTML5 · CSS3 · Sass (SCSS) · BEM · Tailwind CSS · Bootstrap · jQuery  
+**Tools:** Git · GitHub · Vite · Babel · ESLint · Prettier · Figma  
+**English:** Upper -intermediate  
 
 ## 📂 Featured Projects
 
