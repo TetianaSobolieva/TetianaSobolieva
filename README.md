@@ -7,14 +7,12 @@
 [![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TetianaSobolieva)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TetianaSobolieva)
 
----
 ## 🚀 About Me
 
 Frontend Developer passionate about crafting modern web applications using React and TypeScript. I enjoy turning ideas into intuitive, responsive interfaces and building solutions that deliver a great user experience.
 
 Currently growing as a Full-Stack Developer by focusing on backend technologies such as Node.js, Express.js, and MongoDB, while exploring scalable architectures, REST APIs, and best practices for modern web development.
 
----
 ## 🛠 Skills
 
 **Languages:** TypeScript · JavaScript
@@ -22,11 +20,10 @@ Currently growing as a Full-Stack Developer by focusing on backend technologies 
 **Tools:** Git · GitHub · Vite · Babel · ESLint · Prettier · Figma
 **English:** Upper -intermediate
 
----
 ## 📂 Featured Projects
 
-🛒 Voltrix Store — E-commerce Product Catalog
----
+### 🛒 Voltrix Store — E-commerce Product Catalog
+
 
 **Technologies:** React · TypeScript · SCSS Modules · REST API · Custom Hooks · CSS Variables
 
@@ -36,10 +33,9 @@ Includes Dark/Light theme and reusable React components with custom hooks for ma
 🔗 [Demo](https://tetianasobolieva.github.io/phone_catalog_v/)
 💻 [GitHub Code](https://github.com/TetianaSobolieva/phone_catalog_v/blob/main/README.md)
 
----
 
-✅ React Todo App with API
----
+### ✅ React Todo App with API
+
 **Technologies:** React · TypeScript · REST API · SCSS
 
 Task management application with REST API integration.
@@ -48,23 +44,19 @@ Supports task creation, deletion, completion toggling, and filtering by status.
 🔗 [Demo](https://tetianasobolieva.github.io/Todo-app/)
 💻 [GitHub Code](https://github.com/TetianaSobolieva/Todo-app)
 
----
-Nothing - Landing Page
----
+### Nothing - Landing Page
 **Technologies:** HTML5 · CSS3 / SCSS · Parcel
 
 A responsive landing page for store Nothing — built with pure HTML and SCSS, bundled with Parcel.
 🔗 [Demo](https://tetianasobolieva.github.io/layout_landing-page-N/#about-us)
 💻 [GitHub Code](https://github.com/TetianaSobolieva/layout_landing-page-N)
 
----
 ## 🎓 Education
 **National Aerospace university, Kharkiv**
 Aircraft engine construction technology
 Master's degree
 2000 – 2006
 
----
 ## 📚 Additional Education
 
 **Fullstack Development Course — Mate Academy**
